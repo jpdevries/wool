@@ -1,0 +1,5 @@
+Changelog for wool.
+
+wool 0.1.0-dev (December 23, 2014)
+====================================
+- Initial release
