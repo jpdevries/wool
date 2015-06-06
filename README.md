@@ -36,7 +36,7 @@ or traditionally like&nbsp;so:
 
 Name  | Description  | Default Value
 ------|--------------|----------------
-fixEllipsis | Adopts orphans by replacing the last space in sentences with a non-breaking space. | `true`
+adopt | Adopts orphans by replacing the last space in sentences with a non-breaking space. | `true`
 fixEllipsis  | Replaces sloppy ellipsis (...) with `&hellip;` entity | `true`
 encodeQuotes  | Fixes ellipsis | `true`
 fixGreedySpaces  | Fixes ellipsis | `true`
