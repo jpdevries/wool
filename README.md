@@ -48,7 +48,7 @@ fixDegreeSymbols  | Replaces manual degree symbols with `&deg;` entity | `true`
 fixCopyrightSymbols  | Fixes phony copyright symbols | `false`
 fixTrademarkSymbols  | Fixes phony trademark symbols | `false`
 encodeAmpersands  | Encodes the & character properly. Intended for plain text | `false`
-fixShoutCaps  | Fixes ellipsis | `false`
+fixShoutCaps  | Fixes CRAZY CAPS SENTENCES | `false`
 fixCrazyExclamations  | Removes consequtive exclamation points (!!!) | `false`
 fixCrazyQuestionMarks  | Removes consequtive exclamation question marks (???) | `false`
 
